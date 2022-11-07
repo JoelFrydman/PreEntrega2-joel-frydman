@@ -1,5 +1,5 @@
 .btn-indice:hover {
-    background-color: white;
+    background-color: rgb(235, 229, 229);
     border: #080808 2px solid;
     color: #8011F2;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -10,10 +10,12 @@
     background-color: white;
     border: #360369 2px solid;
     color: #2e025a;
+    box-shadow: $sombra;
     }
 
 .btn-form:hover {
-    background-color: white;
-    color: #8011F2;
-    border: 2px solid #8011F2;
+    background-color: rgb(10, 0, 0);
+    color: #f2eef6;
+    border: 2px solid #101011;
+    box-shadow: $sombra;
     }

@@ -11,6 +11,7 @@ ul {
 
 p {
   font-size: 14px;
+  margin-top: 10px;
 }
 
 body {
@@ -22,6 +23,7 @@ main {
 }
 
 h2 {
+  color: rgb(1, 1, 116);
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   font-size: 1.2rem;
   line-height: 1.2rem;
@@ -36,7 +38,7 @@ h3 {
 }
 
 .btn-indice:hover {
-  background-color: white;
+  background-color: rgb(235, 229, 229);
   border: #080808 2px solid;
   color: #8011F2;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -47,15 +49,18 @@ h3 {
   background-color: white;
   border: #360369 2px solid;
   color: #2e025a;
+  box-shadow: 20px 20px 40px black;
 }
 
 .btn-form:hover {
-  background-color: white;
-  color: #8011F2;
-  border: 2px solid #8011F2;
+  background-color: rgb(10, 0, 0);
+  color: #f2eef6;
+  border: 2px solid #101011;
+  box-shadow: 20px 20px 40px black;
 }
 
 .card {
+  box-shadow: 20px 20px 40px black;
   width: 400px;
 }
 
