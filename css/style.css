@@ -76,4 +76,9 @@ h3 {
   padding: 1%;
 }
 
+textarea {
+  overflow: scroll;
+  resize: none;
+}
+
 /*# sourceMappingURL=style.css.map */
