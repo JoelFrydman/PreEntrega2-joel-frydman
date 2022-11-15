@@ -37,6 +37,12 @@ h3 {
   color: blue;
 }
 
+h4 {
+  font-size: 1rem;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
 .btn-indice:hover {
   background-color: rgb(235, 229, 229);
   border: #080808 2px solid;
